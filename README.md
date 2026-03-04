@@ -4,6 +4,8 @@
 
 ## by Lucila Aldana Quiñonez | Marketing Data Analyst
 
+📄 Report available in: English - Spanish
+
 This project develops an interactive retail performance dashboard for Maven Toys, a multi-location toy store chain, to provide visibility into revenue trends, store performance, product contribution, and inventory health across locations.
 
 The objective was to transform transactional and inventory data (January 2022 – September 2023) into a centralized decision-support tool that enables leadership to monitor business health, identify growth opportunities, and optimize operational efficiency.
