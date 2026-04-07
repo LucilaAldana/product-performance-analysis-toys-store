@@ -35,4 +35,4 @@ Key insights supported by the dashboard include identifying seasonal trends, ben
 
 The project integrates sales performance, profitability tracking, and inventory monitoring into a single executive reporting system designed to improve operational visibility and strategic planning.
 
-Tools Used: Power BI / Data Modeling / KPI Development / Retail Analytics / Inventory Analysis / Interactive Dashboard Design
+Tools Used: Power BI / Generative AI / Data Modeling / KPI Development / Retail Analytics / Inventory Analysis / Interactive Dashboard Design
